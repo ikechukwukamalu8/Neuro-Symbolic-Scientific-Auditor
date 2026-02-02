@@ -33,7 +33,7 @@ As a researcher with a background in **Biostatistics (MSc, Distinction, 4.00/4.0
 ├── main.py                       # System entry point & visualization
 └── requirements.txt              # Dependency management
 
-## 🚀 Getting Started
+🚀 Getting Started
 1. Install dependencies:
 pip install -r requirements.txt
 2. Run the Audit:

@@ -1,0 +1,11 @@
+panel_type,standard_eff,theoretical_limit
+Monocrystalline,22.5,33.7
+Polycrystalline,19.0,33.7
+Thin-Film,11.0,30.0
+Perovskite,25.0,31.0
+Tandem,29.0,45.0
+Organic PV,12.0,33.0
+Quantum Dot,15.0,44.0
+Gallium Arsenide,30.0,33.5
+Cadmium Telluride,18.5,31.0
+Copper Indium,20.0,33.0

@@ -16,7 +16,7 @@ This pipeline processes unstructured scientific reports (PDFs) and audits quanti
 
 
 ## 📊 Evaluation & Robustness
-As a researcher with a background in **Biostatistics (MSc, Distinction, 4.0 CGPA)**, I have designed this system to handle real-world "noise." The auditor is tested against:
+As a researcher with a background in **Biostatistics (MSc, Distinction, 4.00/4.00 CGPA)**, I have designed this system to handle real-world "noise." The auditor is tested against:
 * **Linguistic Variance:** Handling percentages expressed as symbols (%) or text ("percent").
 * **Stochastic Stress-Testing:** Evaluation using randomized "noisy" research papers to measure the system's precision in flagging physically impossible data.
 
@@ -32,7 +32,8 @@ As a researcher with a background in **Biostatistics (MSc, Distinction, 4.0 CGPA
 │   └── auditor_logic.py          # Neuro-symbolic verification engine
 ├── main.py                       # System entry point & visualization
 └── requirements.txt              # Dependency management
-🚀 Getting Started
+
+## 🚀 Getting Started
 1. Install dependencies:
 pip install -r requirements.txt
 2. Run the Audit:
